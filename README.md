@@ -1,6 +1,6 @@
 # Design resources
 ## User research
-#### :cz: Jan Řezáč – Barcamp Ostrava 2018
+#### 🇨🇿 Jan Řezáč – Barcamp Ostrava 2018
 - [LINK](https://youtu.be/IhdyeWEADMw)
 
 
