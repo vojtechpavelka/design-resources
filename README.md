@@ -1,11 +1,11 @@
 # Design resources
-## 🔍User research
+## 🔍 User research
 #### 🇨🇿 Jan Řezáč – Barcamp Ostrava 2018
 - [LINK](https://youtu.be/IhdyeWEADMw)
-## 🎓Courses
+## 🎓 Courses
 #### Product Design by Google – Udacity [free]
 - [LINK](https://eu.udacity.com/course/product-design--ud509)
-## 📐Design systems
+## 📐 Design systems
 #### Australian Government
 - [LINK](https://designsystem.gov.au)
 #### Airbnb
