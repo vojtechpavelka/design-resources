@@ -5,6 +5,7 @@
 #### - [Humane Design Guide](https://humanetech.com/designguide/)
 ## ⚙️ User Experience
 #### - [Nielson Norman group](https://www.nngroup.com/articles/)
+#### - [UX Design Deliverables](https://clay.global/news/ux-design-agency-deliverables/)
 ## 🎨 User Interface
 #### - [🇨🇿 Designui](https://www.designui.cz)
 ## 📐 Design systems
