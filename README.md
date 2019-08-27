@@ -6,6 +6,7 @@
 ## ⚙️ User Experience
 #### - [Nielson Norman group](https://www.nngroup.com/articles/)
 #### - [UX Design Deliverables](https://clay.global/news/ux-design-agency-deliverables/)
+#### - [The problem with tooltips and what to do instead](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/)
 ## 🎨 User Interface
 #### - [🇨🇿 Designui](https://www.designui.cz)
 ## 📐 Design systems
