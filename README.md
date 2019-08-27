@@ -7,6 +7,7 @@
 #### - [Nielson Norman group](https://www.nngroup.com/articles/)
 #### - [UX Design Deliverables](https://clay.global/news/ux-design-agency-deliverables/)
 #### - [The problem with tooltips and what to do instead](https://adamsilver.io/articles/the-problem-with-tooltips-and-what-to-do-instead/)
+#### - [🇨🇿 Strategická optimalizace (Jan Řezáč)](https://youtu.be/c9KSqPm-I7g)
 ## 🎨 User Interface
 #### - [🇨🇿 Designui](https://www.designui.cz)
 ## 📐 Design systems
