@@ -5,6 +5,7 @@
 #### - [Humane Design Guide](https://humanetech.com/designguide/)
 #### - [🇨🇿 100 metod](https://100metod.cz)
 #### - [🇨🇿 Jak rychleji najít produkt, který lidem skutečně pomůže](https://medium.com/2fresh-ideas/jak-rychleji-naj%C3%ADt-produkt-který-lidem-skutečně-pomůže-e021ab216863)
+#### - [🇨🇿 Jak zajistit, že data z výzkumu nezůstanou jen pro inspiraci](https://medium.com/@vorkronor/jak-zajistit-že-data-z-výzkumu-nezůstanou-jen-pro-inspiraci-670b350bcb4)
 ## ⚙️ User Experience
 #### - [Nielson Norman group](https://www.nngroup.com/articles/)
 #### - [UX Design Deliverables](https://clay.global/news/ux-design-agency-deliverables/)
