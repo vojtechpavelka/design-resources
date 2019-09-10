@@ -4,6 +4,7 @@
 #### - [Questions UX designers should be asking](https://uxdesign.cc/questions-ux-designers-should-be-asking-bc9a6ba87a34)
 #### - [Humane Design Guide](https://humanetech.com/designguide/)
 #### - [🇨🇿 100 metod](https://100metod.cz)
+#### - [🇨🇿 Jak rychleji najít produkt, který lidem skutečně pomůže](https://medium.com/2fresh-ideas/jak-rychleji-naj%C3%ADt-produkt-který-lidem-skutečně-pomůže-e021ab216863)
 ## ⚙️ User Experience
 #### - [Nielson Norman group](https://www.nngroup.com/articles/)
 #### - [UX Design Deliverables](https://clay.global/news/ux-design-agency-deliverables/)
